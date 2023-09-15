@@ -228,6 +228,7 @@ Your project's use of ultrasound-based stimulation to trigger specific brain loc
 
 Potential applications and target customers
 
+
 Ultrasound-based BCI technology has the potential to be used in a wide range of applications, including:
 
 Enhancing the gaming experience: Ultrasound-based BCIs could be used to create more immersive and interactive gaming experiences. For example, players could use their minds to control the game world or to interact with other players.
