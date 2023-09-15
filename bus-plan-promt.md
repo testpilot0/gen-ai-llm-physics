@@ -30,7 +30,7 @@ C. Lucid Dreaming and Secure Communication Enthusiasts: We recognize the interes
 It's important to emphasize that we do not intend to position this technology for medical use; rather, our focus is on consumer applications."
 
 =============================================================================================================================================================================================================================
-#Prompt to Use with ChatGPT
+# Prompt to Use with ChatGPT/Bard
 Copy New Prompt
 Improved Prompt
 "Act as an expert in brain-computer interfaces (BCIs) and new technology development. I am seeking your insights and expertise to help me create a compelling vision statement for a new startup that is building a revolutionary ultrasound-based BCI. The abstract of our technology describes how we aim to make BCIs more accessible to a wider range of people by combining fMRI technology with external ultrasound transcranial stimulation. Our goal is to induce the perception of imaginative pictures, creating a form of 'mental visual telepathy.'
@@ -83,7 +83,7 @@ How can we effectively position our technology in the market and identify the mo
 What are the potential long-term implications and societal impacts of widespread adoption of ultrasound-based BCIs?
 
 =========================================================================================================================================================================================================================== 
-#Vision Statement: Revolutionizing Brain-Computer Interfaces (BCIs) with Ultrasound Innovation
+# Vision Statement: Revolutionizing Brain-Computer Interfaces (BCIs) with Ultrasound Innovation
 
 Our vision is to transform the landscape of Brain-Computer Interfaces (BCIs) by introducing an innovative ultrasound-based approach that transcends traditional boundaries. By seamlessly merging functional Magnetic Resonance Imaging (fMRI) with cutting-edge external ultrasound transcranial stimulation, our goal is to unlock a realm of possibilities that make BCIs more accessible and meaningful to a wider range of users. We envision a future where BCIs empower individuals to create, communicate, and experience mental imagery in ways never before imagined – a form of 'mental visual telepathy.'
 
