@@ -1,6 +1,7 @@
 https://levelup.gitconnected.com/write-a-winning-business-plan-with-chatgpt-claude-923871ba0f7c
 https://www.aimind.so/prompt-generator?email=astakhov%40google.com
 
+# Step 1: Define Your Vision
 help me to create a vision statement for new start-up building new technology described in this abstract: " a new type of ultrasound-based brain-computer interface (BCI). I believe that this approach has the potential to make BCIs more accessible to a wider range of people and I would be honored to discuss it with your experts at Google Research or Neuralink.
 
 We are working on a new type of BCI which is based on a recently published novel approach used by Japanese researchers to reconstruct human mental images based on fMRI. In their approach, this team uses fMRI technology to collect brain activity data during visual perception and during imaging some mental pictures. This data is used to train a machine learning model that can then reconstruct an arbitrary mental picture which a person can imagine.
