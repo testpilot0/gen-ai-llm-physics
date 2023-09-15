@@ -252,6 +252,132 @@ In addition, ultrasound-based BCIs could be used to create new and innovative ap
 
 Advantages of ultrasound-based BCIs over other BCI technologies
 
+# Some variations of prompts
+
+help me define my target audience for technology explained in this abstract ".."
+
+# Step 3: Organization and Management
+
+help me create an organization structure for a tech startup focused on the technology explained in this abstract ".."
+
+help me outline a management team for...
+
 Ultrasound-based BCIs have several advantages over other BCI technologies, such as EEG and invasive implants:
 
+# Step 4: Services or Products
 
+help me write a description for a personalized brain-computer interface described in this abstract ".."
+
+# Step 5: Marketing and Sales Strategy
+help me market a technology described in this abstract "Our project centers on the development of an ultrasound-based brain-computer interface, a technology that has the potential to democratize access to BCIs and revolutionize the way we interface with the human mind. This innovation builds upon a recent breakthrough by Japanese researchers in the reconstruction of human mental images using functional Magnetic Resonance Imaging (fMRI). Their methodology, which leverages fMRI data and machine learning, enables the reconstruction of mental images based solely on an individual's thoughts.
+
+Our proposal takes this achievement a step further by introducing external ultrasound transcranial stimulation. By targeting the specific brain voxels activated during mental imagery tasks, we aim to induce the perception of imaginative pictures—a concept we term "mental visual telepathy." We believe that this integration of ultrasound stimulation with fMRI-derived data has the potential to unlock new realms of cognitive technology and human-computer interaction.
+
+Technological Integration:
+
+Our project bridges two distinct technologies:
+
+fMRI-Based Image Reconstruction: We leverage the state-of-the-art "High-resolution image reconstruction with latent diffusion models from human brain activity" methodology developed by experts in the field. This allows us to translate brain activity data into vivid mental images.
+
+Ultrasound-Based Stimulation: We adapt ultrasound-based drug delivery techniques to trigger specific brain locations and induce mental imagery. This technology aims to create sensory experiences without external stimuli.
+
+Innovation and Impact:
+
+Our research has yielded promising preliminary results, demonstrating the potential of our ultrasound-based approach to trigger specific regions of the brain, as detected by portable BCI devices such as OpenBCI and Neurosity. This technology has the power to overcome many limitations of current BCIs, offering less invasive solutions with profound implications for healthcare, communication, and human cognition. And that We plan to offer our technology to three main groups of customers:
+
+Gamers: Our technology can be used to enhance the gaming experience by allowing gamers to trigger mental images directly in their brains.
+People with disabilities: Our technology can help people with cerebral palsy and other disabilities by allowing them to use brain-computer interfaces to interact with the world around them.
+People interested in induced dreams: Our technology can be used to induce lucid dreams and to control the content of dreams."
+
+# Prompt to Use with ChatGPT
+Copy New Prompt
+Improved Prompt
+"Act as a technology marketing expert and provide a comprehensive overview of the potential of our ultrasound-based brain-computer interface (BCI) technology. Start by describing the innovation and impact of our technology, highlighting its ability to democratize access to BCIs and revolutionize human-computer interaction. Explain how our technology integrates fMRI-based image reconstruction and ultrasound-based stimulation, emphasizing the benefits of each component. Discuss the promising preliminary results of our research, showcasing how our technology can overcome the limitations of current BCIs. Additionally, elaborate on the three main customer groups we plan to target: gamers, people with disabilities, and individuals interested in induced dreams. Emphasize the benefits our technology offers to each group, such as enhancing the gaming experience, enabling interaction for people with disabilities, and inducing and controlling dream content. Provide a friendly and jargon-free tone throughout the response."
+
+List of Topics to Include:
+
+Overview of the ultrasound-based brain-computer interface (BCI) technology
+Description of the innovation and impact of the technology
+Integration of fMRI-based image reconstruction and ultrasound-based stimulation
+Benefits and advantages of fMRI-based image reconstruction
+Benefits and advantages of ultrasound-based stimulation
+Promising preliminary results of the research
+Overcoming limitations of current BCIs
+Target customer groups: gamers, people with disabilities, and individuals interested in induced dreams
+Benefits of the technology for gamers
+Benefits of the technology for people with disabilities
+Benefits of the technology for individuals interested in induced dreams
+Friendly and jargon-free tone throughout the response
+Additional Context for Prompt
+Explain the specific brain voxels targeted by the ultrasound-based stimulation and how they relate to mental imagery tasks.
+Elaborate on the less invasive nature of the ultrasound-based stimulation compared to other BCI technologies.
+Discuss the potential healthcare applications of the technology beyond gaming and dream control.
+Provide examples of how the technology can be used to enhance communication and human cognition.
+Explain the portability and accessibility of the BCI devices used in the research (OpenBCI and Neurosity).
+Highlight any ethical considerations or safeguards in place regarding the use of the technology.
+Follow Up Questions to Guide Conversation
+Ask after ChatGPT's first response
+
+How can we effectively communicate the benefits of our technology to gamers, people with disabilities, and individuals interested in induced dreams?
+What are some potential healthcare applications of our ultrasound-based BCI technology?
+How can we address concerns about the invasiveness of traditional BCIs and highlight the advantages of our less invasive approach?
+Are there any specific regulatory or ethical considerations we should be aware of when marketing our technology?
+How can we ensure that our technology is accessible and user-friendly for a wide range of individuals?
+What are some potential partnerships or collaborations we should explore to further develop and market our technology?
+
+# GPT responce
+Overview of Ultrasound-Based Brain-Computer Interface (BCI) Technology:
+
+Our ultrasound-based BCI technology is a groundbreaking innovation set to transform the way we interact with computers and unlock new possibilities for a wide range of users. Imagine being able to control a computer or experience vivid mental imagery without the need for physical inputs or invasive procedures. This is the promise of our ultrasound-based BCI.
+
+Innovation and Impact:
+
+Our technology is poised to democratize access to BCIs, making them available to a broader audience. By combining two cutting-edge approaches—fMRI-based image reconstruction and ultrasound-based stimulation—we are ushering in a new era of human-computer interaction. This innovation offers not only exciting possibilities but also addresses some key limitations of existing BCIs.
+
+Integration of fMRI-Based Image Reconstruction and Ultrasound-Based Stimulation:
+
+Our approach combines the strengths of fMRI-based image reconstruction and ultrasound-based stimulation:
+
+fMRI-based image reconstruction allows us to translate brain activity data into vivid mental images. It's like painting a picture with your thoughts.
+Ultrasound-based stimulation enables us to activate specific brain voxels associated with mental imagery tasks, offering users a sensory experience without the need for external stimuli.
+Benefits of fMRI-Based Image Reconstruction:
+
+This component provides users with the ability to translate their thoughts into visual experiences. It enhances immersion and control in a virtual world, opening up new horizons for gamers, enhancing communication for people with disabilities, and making dream manipulation possible.
+
+Benefits of Ultrasound-Based Stimulation:
+
+Our ultrasound-based stimulation is groundbreaking in its non-invasive nature. It targets specific brain voxels involved in mental imagery tasks, offering a safer and more accessible alternative to traditional BCIs. It doesn't require surgery or implants, reducing risks and costs.
+
+Promising Preliminary Results:
+
+Our research has yielded promising preliminary results. We've successfully activated specific brain regions using low-intensity ultrasound emitters and neurotransmitter precursors. This activation has been detected with portable BCI devices like OpenBCI and Neurosity, indicating the technology's potential to trigger desired mental imagery.
+
+Overcoming Limitations of Current BCIs:
+
+Traditional BCIs often involve invasive procedures or have limited functionality. Our technology overcomes these limitations by offering non-invasiveness, enhanced sensory experiences, and the ability to induce controlled mental imagery.
+
+Target Customer Groups: Gamers, People with Disabilities, and Dream Enthusiasts:
+
+Gamers: For gamers, our BCI technology takes immersion to a new level. Imagine being able to control in-game actions or experience game worlds with unparalleled realism, all through thought alone.
+
+People with Disabilities: Our technology empowers individuals with disabilities by providing new means of communication and sensory experiences. It breaks down barriers and fosters inclusion.
+
+Dream Enthusiasts: Those interested in lucid dreaming or controlling their dreams will find our technology invaluable. It enables the exploration of dreamscapes and conscious dream manipulation.
+
+Healthcare Applications and Beyond:
+
+Beyond gaming and dream control, our technology holds potential healthcare applications. It could aid in neurorehabilitation, cognitive therapy, and telemedicine, enhancing patient outcomes and quality of life.
+
+Enhancing Communication and Cognition:
+
+Our BCI technology also has the potential to revolutionize communication and human cognition. It can enable direct brain-to-brain communication and offer new tools for education and research.
+
+Portability and Accessibility:
+
+Our research utilizes portable BCI devices like OpenBCI and Neurosity, ensuring accessibility for users. These devices are user-friendly and can be easily integrated into daily life.
+
+Ethical Considerations and Safeguards:
+
+We are committed to addressing ethical considerations and ensuring user privacy and data security. Safeguards will be in place to protect user information and uphold ethical standards.
+
+In conclusion, our ultrasound-based BCI technology represents a leap forward in human-computer interaction. It's about making the extraordinary accessible to everyone, whether you're a gamer, someone with disabilities, or simply fascinated by the power of your own thoughts. With non-invasiveness, innovation, and user-friendliness at its core, our technology has the potential to change the way we connect with computers and with each other. Welcome to the future of BCIs.
